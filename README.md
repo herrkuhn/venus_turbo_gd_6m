@@ -27,7 +27,7 @@ Bottom PCB:
 |U14|9033 / V53C104P10L|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/V53C104P10L.pdf)|
 |U15|KM44C256BP-8 / 102 Korea|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/KM44C256BP.pdf)|
 |U16|KM44C256BP-8 / 102 Korea|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/KM44C256BP.pdf)|
-|U17|9033 / V53C104P10L|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/V53C104P10L.pdf)|
+|U17|9033 / V53C104P10L|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/V53C104P10L.pdf)|  
 Dump of U7/NMC27C64Q content [here](firmware/venus_turbo_gd_6m_NMC27C64Q_a9ac5513.bin).
 
 ## Resistors
