@@ -30,8 +30,8 @@ Bottom PCB:
 |U17|9033 / V53C104P10L|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/V53C104P10L.pdf)|
 
 ## Resistors
-|Board #|Rings|Value|Value meas.
-|:--|:--|--:|--:
+|Board #|Rings|Value|Value meas.|
+|:--|:--|--:|--:|
 |R1|green-blue-brown-gold|560 Ohms 5%||
 |R2|brown-black-yellow-gold|100k Ohms 5%||
 |R3|empty|||
@@ -47,8 +47,8 @@ Bottom PCB:
 |R13|brown-black-red-gold|1k Ohms 5%||
 
 ## Capacitors
-|Board #|Mark|Value|Value meas.
-|:--|:--|--:|--:
+|Board #|Mark|Value|Value meas.|
+|:--|:--|--:|--:|
 |C1|103|10nF||
 |C2|103|10nF||
 |C3|103|10nF||
@@ -80,14 +80,14 @@ Bottom PCB:
 |C29||33uF 16V||
 
 ## Diodes
-|Board #|Mark|Value|Value meas.
-|:--|:--|--:|--:
+|Board #|Mark|Value|Value meas.|
+|:--|:--|--:|--:|
 |D1||||
 |D2||||
 |D2||||
 
 ## Oscillators
-|Board #|Mark|Value|Value meas.
-|:--|:--|--:|--:
-|X1||||
-|X2||||
+|Board #|Mark|Value|
+|:--|:--|--:|
+|X1|KTS F24.000 MHz|24 MHz|
+|X2|CEI 20.00 MHz|20 MHz|
