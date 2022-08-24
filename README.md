@@ -3,10 +3,10 @@
 Some notes on the Venus Turbo GD 6M Famicom copier
 
 Top PCB:  
-![](images/turbo_gd_6m_pcb_top.jpg?raw=true | width=400
+<img src="images/turbo_gd_6m_pcb_top.jpg?raw=true" width="400">
 
 Bottom PCB:  
-![](images/turbo_gd_6m_pcb_bottom.jpg?raw=true | width=400)
+<img src="images/turbo_gd_6m_pcb_bottom.jpg?raw=true" width="400">
 
 ## ICs
 |Board #|IC|Socket|Function|Datasheet|
