@@ -31,6 +31,12 @@ Bottom PCB:
 
 Dump of U7/NMC27C64Q content [here](firmware/venus_turbo_gd_6m_NMC27C64Q_a9ac5513.bin).
 
+## Transistors
+|Board #|Mark|Type|Datasheet|
+|:--|:--|:--|:--|
+|Q1|113 23 112 2N 3904|2N3904 TO-92|[Link](datasheets/2N3904.pdf)|
+|Q2|113 23 112 2N 3904|2N3904 TO-92|[Link](datasheets/2N3904.pdf)|
+
 ## Resistors
 |Board #|Rings|Value|Value meas.|
 |:--|:--|--:|--:|
