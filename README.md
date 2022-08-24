@@ -88,11 +88,11 @@ Dump of U7/NMC27C64Q content [here](firmware/venus_turbo_gd_6m_NMC27C64Q_a9ac551
 |C29||33uF 16V||
 
 ## Diodes
-|Board #|Mark|Value|Value meas.|
-|:--|:--|--:|--:|
-|D1||||
-|D2||||
-|D2||||
+|Board #|Mark|
+|:--|:--|
+|D1|1N4148|
+|D2|1N4148|
+|D2|1N4148|
 
 ## Oscillators
 |Board #|Mark|Value|
