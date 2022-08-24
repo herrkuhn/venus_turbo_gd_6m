@@ -38,54 +38,54 @@ Dump of U7/NMC27C64Q content [here](firmware/venus_turbo_gd_6m_NMC27C64Q_a9ac551
 |Q2|113 23 112 2N 3904|2N3904 TO-92|[Link](datasheets/2N3904.pdf)|
 
 ## Resistors
-|Board #|Rings|Value|Value meas.|
-|:--|:--|--:|--:|
-|R1|green-blue-brown-gold|560 Ohms 5%||
-|R2|brown-black-yellow-gold|100k Ohms 5%||
-|R3|empty|||
-|R4|brown-black-orange-gold|10k Ohms 5%||
-|R5|green-blue-brown-gold|560 Ohms 5%||
-|R6|grey-red-orange-gold|82k Ohms 5%||
-|R7|brown-black-brown-gold|100 Ohms 5%||
-|R8|grey-red-orange-gold|82k Ohms 5%||
-|R9|green-blue-brown-gold|560 Ohms 5%||
-|R10|brown-black-red-gold|1k Ohms 5%||
-|R11|brown-black-yellow-gold|100k Ohms 5%||
-|R12|brown-black-yellow-gold|100k Ohms 5%||
-|R13|brown-black-red-gold|1k Ohms 5%||
+|Board #|Rings|Value|
+|:--|:--|--:|
+|R1|green-blue-brown-gold|560 Ohms 5%|
+|R2|brown-black-yellow-gold|100k Ohms 5%|
+|R3|empty||
+|R4|brown-black-orange-gold|10k Ohms 5%|
+|R5|green-blue-brown-gold|560 Ohms 5%|
+|R6|grey-red-orange-gold|82k Ohms 5%|
+|R7|brown-black-brown-gold|100 Ohms 5%|
+|R8|grey-red-orange-gold|82k Ohms 5%|
+|R9|green-blue-brown-gold|560 Ohms 5%|
+|R10|brown-black-red-gold|1k Ohms 5%|
+|R11|brown-black-yellow-gold|100k Ohms 5%|
+|R12|brown-black-yellow-gold|100k Ohms 5%|
+|R13|brown-black-red-gold|1k Ohms 5%|
 
 ## Capacitors
-|Board #|Mark|Value|Value meas.|
-|:--|:--|--:|--:|
-|C1|103|10nF||
-|C2|103|10nF||
-|C3|103|10nF||
-|C4|103|10nF||
-|C5|103|10nF||
-|C6|471|200nF||
-|C7|empty|||
-|C8|10|10pF||
-|C9|10|10pF||
-|C10||2.2uF 50V||
-|C11|103|10nF||
-|C12|103|10nF||
-|C13|103|10nF||
-|C14|103|10nF||
-|C15|103|10nF||
-|C16|empty|||
-|C17|empty|||
-|C18|empty|||
-|C19|103|10nF||
-|C20|10|10pF||
-|C21|10|10pF||
-|C22|103|10nF||
-|C23|103|10nF||
-|C24|103|10nF||
-|C25|103|10nF||
+|Board #|Mark|Value|
+|:--|:--|--:|
+|C1|103|10nF|
+|C2|103|10nF|
+|C3|103|10nF|
+|C4|103|10nF|
+|C5|103|10nF|
+|C6|471|200nF|
+|C7|empty||
+|C8|10|10pF|
+|C9|10|10pF|
+|C10||2.2uF 50V|
+|C11|103|10nF|
+|C12|103|10nF|
+|C13|103|10nF|
+|C14|103|10nF|
+|C15|103|10nF|
+|C16|empty||
+|C17|empty||
+|C18|empty||
+|C19|103|10nF|
+|C20|10|10pF|
+|C21|10|10pF|
+|C22|103|10nF|
+|C23|103|10nF|
+|C24|103|10nF|
+|C25|103|10nF|
 |C26|20|20pF||
-|C27|103|10nF||
-|C28||1000uF 16V||
-|C29||33uF 16V||
+|C27|103|10nF|
+|C28||1000uF 16V|
+|C29||33uF 16V|
 
 ## Diodes
 |Board #|Type|
