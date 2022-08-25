@@ -23,7 +23,7 @@ Bottom PCB:
 |U10|SN74LS670N / KKBI9031||4x4 Register File with 3-state outputs|[Link](datasheets/SN74LS670N.pdf)|
 |U11|P9012G / MM74HC244N / MC74HC244N||Octal 3-STATE Buffer|[Link](datasheets/MM74HC244N.pdf)|
 |U12|P9048 / MM74HC20N / MC74HC20N||Dual 4-Input NAND Gate|[Link](datasheets/MM74HC20N.pdf)|
-|U13|???|Y|||
+|U13|??? CPLD ???|Y|||
 |U14|9033 / V53C104P10L|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/V53C104P10L.pdf)|
 |U15|KM44C256BP-8 / 102 Korea|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/KM44C256BP.pdf)|
 |U16|KM44C256BP-8 / 102 Korea|Y|256Kx4 Bit CMOS Dynamic RAM|[Link](datasheets/KM44C256BP.pdf)|
