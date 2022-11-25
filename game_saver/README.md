@@ -61,3 +61,4 @@ Dump of U13/M5L2764K content [here](firmware/venus_game_saver_M5L2764K_e1cfe03e.
 | Board # | Type   |
 |:--------|:-------|
 | D1      | 1N4148 |
+| D2      | 1N4148 |
