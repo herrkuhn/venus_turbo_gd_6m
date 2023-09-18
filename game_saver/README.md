@@ -3,10 +3,10 @@
 Some notes on the Venus Turbo Game Doctor 4+ Game Saver
 
 Top PCB:  
-<img alt="" src="images/game_saver_pcb_top.jpg?raw=true" width="400">
+<img alt="" src="images/game_saver_pcb_top.jpg?raw=true" width="400" target="blank"> <img alt="" src="images/game_saver_pcb_top_blank.jpg?raw=true" width="400" target="blank">
 
 Bottom PCB:  
-<img alt="" src="images/game_saver_pcb_bottom.jpg?raw=true" width="400">
+<img alt="" src="images/game_saver_pcb_bottom.jpg?raw=true" width="400" target="blank"> <img alt="" src="images/game_saver_pcb_bottom_blank.jpg?raw=true" width="400" target="blank">
 
 ## ICs
 
